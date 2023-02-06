@@ -1,0 +1,32 @@
+.image {
+  height: 100px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #334155;
+}
+
+.list {
+  margin: 1px;
+}
+
+.name {
+  color: #ffffff;
+  font-size: 10px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.remove-button {
+  color: #ffffff;
+  background-color: transparent;
+  margin-top: 3px;
+  border: 1px solid #ffffff;
+  cursor: pointer;
+}
